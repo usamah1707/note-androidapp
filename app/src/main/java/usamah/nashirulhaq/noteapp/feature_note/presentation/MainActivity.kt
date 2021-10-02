@@ -1,7 +1,8 @@
-package usamah.nashirulhaq.noteapp
+package usamah.nashirulhaq.noteapp.feature_note.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import usamah.nashirulhaq.noteapp.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
